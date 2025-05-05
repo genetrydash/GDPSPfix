@@ -7,7 +7,7 @@ To test the game ISO download the zip file "GDPSPfixed.zip" from the source code
 ## What I did so far:
 Improved Physics
 
-Increased FPS (and had to redo everything)
+Increased FPS to 60 (and had to redo everything)
 
 Some menu improvements
 
