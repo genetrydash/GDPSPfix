@@ -1,4 +1,4 @@
-## GDPSP better edition
+## GDPSP improved
 
 Geometry Dash PSP by Yerson Games but im improving it
 
@@ -11,7 +11,9 @@ Increased FPS to 60 (and had to redo everything)
 
 Some menu improvements
 
+Updated metatiles
+
 ## To do list:
-Update graphics because 🤮
+More graphical improvements
 
 Collision is so bad (Improve it by A LOT)
